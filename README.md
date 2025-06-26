@@ -13,23 +13,25 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Manav Sapariya</h1>
 <h3 align="center">Developer</h3>
 <p align="center">
-<a href="https://www.instagram.com/_manavpatell_/">
-  <img align="center" alt="Instagram" width="28px" src="https://github.com/ManavSapariya/manav-sapariya/main/instagram.png" />
-</a>
-<a href="www.linkedin.com/in/manav-sapariya-b1a21a28a">
-  <img align="center" alt="Linkedin" width="36px" margin="50%" src="https://github.com/JashSureja/JashSureja/blob/main/linkedin.png" />
-</a>
-<a href="https://x.com/ManavPatel51279/">
-  <img align="center" alt="X" width="24px" src="https://github.com/JashSureja/JashSureja/blob/main/twitter.png" />
-</a>
-<a href="https://leetcode.com/mp9621102/">
-  <img align="center" alt="LeetCode" width="24px" src="https://github.com/JashSureja/JashSureja/blob/main/hackerrank.png" />
-</a>
-
- </p>
- <br/>
+  <a href="https://www.instagram.com/_manavpatell_/" target="_blank">
+    <img src="https://github.com/ManavSapariya/manav-sapariya/blob/main/instagram.png" alt="Instagram" width="31" height="31" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/manav-sapariya-b1a21a28a" target="_blank">
+    <img src="https://github.com/ManavSapariya/manav-sapariya/blob/main/linkedin.png" alt="LinkedIn" width="41" height="41" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/ManavPatel51279/" target="_blank">
+    <img src="https://github.com/JashSureja/JashSureja/blob/main/twitter.png" alt="X" width="30" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/mp9621102/" target="_blank">
+    <img src="https://github.com/ManavSapariya/manav-sapariya/blob/main/leetcode.png" alt="LeetCode" width="30" height="30" />
+  </a>
+</p>
+<br/>
 <hr/>
-<img align='right' src='https://github.com/JashSureja/JashSureja/blob/main/computer_animation(1).gif' height='200px' width='400px' margin-bottom="20px">
+<img align='right' src='https://github.com/ManavSapariya/manav-sapariya/blob/main/image.gif' height='200px' width='400px' margin-bottom="20px">
 <ul>
 <li>I am currently pursuing my BE from AIT,Ahemdabad.</li><br/>
 <li>Exploring the Data Fields.</li><br/>
