@@ -18,15 +18,15 @@ You can click the Preview link to take a look at your changes.
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/manav-sapariya-b1a21a28a" target="_blank">
-    <img src="https://github.com/ManavSapariya/manav-sapariya/blob/main/linkedin.png" alt="LinkedIn" width="41" height="41" />
+    <img src="https://github.com/ManavSapariya/manav-sapariya/blob/main/linkedin1.png" alt="LinkedIn" width="28" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/ManavPatel51279/" target="_blank">
-    <img src="https://github.com/JashSureja/JashSureja/blob/main/twitter.png" alt="X" width="30" height="30" />
+    <img src="https://github.com/JashSureja/JashSureja/blob/main/twitter.png" alt="X" width="28" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/mp9621102/" target="_blank">
-    <img src="https://github.com/ManavSapariya/manav-sapariya/blob/main/leetcode.png" alt="LeetCode" width="30" height="30" />
+    <img src="https://github.com/ManavSapariya/manav-sapariya/blob/main/leetcode.png" alt="LeetCode" width="28" height="28" />
   </a>
 </p>
 <br/>
