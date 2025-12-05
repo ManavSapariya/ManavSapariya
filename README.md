@@ -25,8 +25,8 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github.com/JashSureja/JashSureja/blob/main/twitter.png" alt="X" width="28" height="28" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/mp9621102/" target="_blank">
-    <img src="https://github.com/ManavSapariya/manav-sapariya/blob/main/leetcode.png" alt="LeetCode" width="28" height="28" />
+  <a href="https://www.hackerrank.com/profile/manavsapariya2" target="_blank">
+    <img src="https://github.com/ManavSapariya/ManavSapariya/blob/main/hackerranke.png" alt="LeetCode" width="28" height="28" />
   </a>
 </p>
 <br/>
